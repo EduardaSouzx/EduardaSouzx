@@ -16,6 +16,8 @@ Estudo Análise e Desenvolvimento de Sistemas (ADS) e aprendo Python, HTML, lóg
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
+![Snake animation](https://github.com/EduardaSouzx/EduardaSouzx/blob/output/github-contribution-grid-snake.svg)
+
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
