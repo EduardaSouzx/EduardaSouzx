@@ -28,7 +28,7 @@ Estudo Análise e Desenvolvimento de Sistemas (ADS) e aprendo Python, HTML, lóg
 ## 🌐 Onde me encontrar
 
 <div align="center">
-  <a href="https://discord.gg/seu-convite" target="_blank">
+  <a href="https://discord.gg/dud3xsz" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:eduardasouza.tech@gmail.com">
